@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile! 👋
 
-![Profile Banner](./profile-banner.jpeg)
-
 I'm a **Generative AI Engineer** skilled in leveraging technology to create innovative solutions for complex problems.
 
 ## About Me 🧑‍💻
