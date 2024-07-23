@@ -2,11 +2,8 @@
 
 I'm a **Generative AI Engineer** skilled in leveraging technology to create innovative solutions for complex problems.
 
-## About Me 🧑‍💻
-
-- **Skills**: NLP, Python, ML, JavaScript (React), SQL, prompt engineering
-- **Expertise**: OpenAI API, Hugging Face, vector databases, Docker
-- **Experience**: Fine-tuning LLMs, using multiple GPUs, deploying software
+Am Experienced in Data Science, Machine Learning and Control and Instrumentation.
+Am Constantly pushing boundaries to solve complex challenges and enhance system performances
 
 ## Tech Stack 💻
 - Python, JavaScript, Markdown, Flask
