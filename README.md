@@ -11,7 +11,7 @@ Am Constantly pushing boundaries to solve complex challenges and enhance system 
 - PostgreSQL, Pinecone
 - VS Code, Jupyter Notebook, Google Colab
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MoraaOntita=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoraaOntita)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me 🌐
 Please don't hesitate to contact me if you need further information or help.
