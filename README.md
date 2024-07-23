@@ -13,6 +13,9 @@ Am Constantly pushing boundaries to solve complex challenges and enhance system 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoraaOntita)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoraaOntita&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Connect with Me 🌐
 Please don't hesitate to contact me if you need further information or help.
 
